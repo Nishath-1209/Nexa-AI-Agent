@@ -69,8 +69,7 @@ The application follows a **client-server architecture**:
 
 ### Installation
 ```bash
-git clone https://github.com/siddbhatt18/30-days-of-voice-agents.git
-cd day-13
+git clone
 pip install -r requirements.txt
 Environment Variables
 
