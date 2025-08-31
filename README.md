@@ -75,9 +75,7 @@ cd Nexa-AI-Agent
 pip install -r requirements.txt
 Environment Variables
 Create a .env file in the project root:
-
-bash
-Copy code
+```
 MURF_API_KEY="your_murf_api_key_here"
 ASSEMBLYAI_API_KEY="your_assemblyai_api_key_here"
 GEMINI_API_KEY="your_gemini_api_key_here"
@@ -163,5 +161,8 @@ This project is part of the #30DaysofVoiceAgents challenge.
 Check out my LinkedIn updates where I share daily progress 🚀.
 
 ---
+
+## ⚡ Powered by Murf
+This project integrates **Murf AI** for TTS.  
 
 ✅ This is a **ready-to-use final README.md**.  
